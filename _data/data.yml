@@ -15,7 +15,7 @@ sidebar:
     email: aborisadeelijah@gmail.com
     phone: 23470 6589 4885
     website: dasaint.com #do not add http://
-    linkedin: elijah-aborisade
+    linkedin: elijah-aborisade-48a31474
     github: dasaint001
     telegram: da_saint # add your nickname without '@' sign
     gitlab:
@@ -23,23 +23,20 @@ sidebar:
     twitter: '@iam_dasaint'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: dasaint001
-    goodreads: Elijah Aborisade # Number-Username, e.g. 123456-alandoe
+    goodreads: 95359404-elijah-aborisade # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Researching
         link:
 
-      - item: Cooking
+      - item: Troubleshooting
         link:
 
 career-profile:
@@ -63,9 +60,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BTech in Metallurgical and Materials Engineering 
+      university: Federal University of Technology, Akure
+      time: 2009 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
