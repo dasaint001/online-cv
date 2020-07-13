@@ -17,20 +17,17 @@ sidebar:
     website: dasaint.com #do not add http://
     linkedin: elijah-aborisade
     github: dasaint001
-    telegram: da_saint01 # add your nickname without '@' sign
+    telegram: da_saint # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@iam_dasaint'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    codewars: dasaint001
+    goodreads: Elijah Aborisade # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
 
       - idiom: Spanish
         level: Professional
