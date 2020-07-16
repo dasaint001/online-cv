@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: aborisadeelijah@gmail.com
     phone: 23470 6589 4885
-    website: in view #do not add http://
+    website: #do not add http://
     linkedin: elijah-aborisade-48a31474
     github: dasaint001
     telegram: da_saint # add your nickname without '@' sign
@@ -38,6 +38,9 @@ sidebar:
 
       - item: Troubleshooting
         link:
+        
+      - item: Music
+        link:
 
 career-profile:
     title: Career Profile
@@ -56,11 +59,11 @@ experiences:
       time: May 2020 - Present
       company: HNG Limited
       details: |
-       -Designed and developed Back-end for internal tools
-       -Built responsive user interface from design mocks   
+       -Designed and developed Back-end for internal tools.
+       -Built responsive user interface from design mocks.   
        -Responsible for implementing Unit and Integration Tests
        -Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
-       -Collaborated with full-stack engineers, a product manager, and a UI/UX designer
+       -Collaborated with full-stack engineers, a product manager, and a UI/UX designer.
        -Product manager for an envato template project
             
     - role: Backend Developer
@@ -84,10 +87,13 @@ projects:
     intro: >
         FUNDMYLAPTOP
         This is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
+        
         TalentPool
         This is a web application where talents could be find by employers and organizations.
+        
         Icook
         This is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
+        
     assignments:
       - title: Blog features
         link: "#"
