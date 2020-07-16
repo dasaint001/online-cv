@@ -28,6 +28,9 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+        
+      - idiom: Yoruba
+        level: Native
 
     interests:
       - item: Reading
@@ -45,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Software engineer with professional experience building and designing software solutions. I am passionate
+        Software Engineer with professional experience building and designing software solutions. I am passionate
         about building solutions that solve real-life problems. I am skilled in the latest frontend and backend technologies like React.js, laravel,
         Node.js & Python. 
 education:
@@ -54,7 +57,7 @@ education:
       time: 2009 - 2014
       details: 
       
-experiences:
+experience:
     - role: Software Developer(Remote Internship)
       time: May 2020 - Present
       company: HNG Limited
@@ -71,14 +74,6 @@ experiences:
        
        -Product manager for an envato template project
             
-    - role: Backend Developer
-      time: February 2020 - May 2020
-      company: StartNg Limited(Remote Internship)
-      details: |
-        Designed a python Calculator
-
-        Built a python application for bank consumption
-            
     - role: Cloud Engineer
       time: April 2020 - present
       company: Google (Remote Internship Scholarship)
@@ -91,6 +86,13 @@ experiences:
         
         Cloud Management
         
+    - role: Backend Developer
+      time: February 2020 - May 2020
+      company: StartNg Limited(Remote Internship)
+      details: |
+        Designed a python Calculator
+
+        Built a python application for bank consumption
 projects:
     title: Projects
     intro: >
@@ -145,10 +147,10 @@ skills:
         level: 70%
 
       - name: Figma
-        level: 50%
+        level: 60%
 
       - name: WordPress
-        level: 80%
+        level: 85%
         
       - name: Microsoft Suites(Word,Excel,Powerpoint and Outlook)
         level: 99%
