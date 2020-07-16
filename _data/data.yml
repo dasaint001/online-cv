@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Software engineer with professional experience building and designing software solutions. I’m passionate
+        Software engineer with professional experience building and designing software solutions. I am passionate
         about building solutions that solve real-life problems. I am skilled in the latest frontend and backend technologies like React.js, laravel,
         Node.js & Python. 
 education:
@@ -56,8 +56,8 @@ experiences:
       time: May 2020 - Present
       company: HNG Limited
       details: |
-        Designed and developed Back-end for internal tools 
-        Built responsive user interface from design mocks
+        Designed and developed Back-end for internal tools \n
+        Built responsive user interface from design mocks   \n
         Responsible for implementing Unit and Integration Tests
         Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
         Collaborated with full-stack engineers, a product manager, and a UI/UX designer
