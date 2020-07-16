@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -76,13 +76,14 @@ experiences:
       company: StartNg Limited(Remote Internship)
       details: |
         Designed a python Calculator
+
         Built a python application for bank consumption
             
     - role: Cloud Engineer
       time: April 2020 - present
       company: Google (Remote Internship Scholarship)
       details: |
-        Virtual Machines Deployment
+        Virtual Machines Deployment 
         
         Kubernetes Compute engine optimization
         
@@ -125,7 +126,7 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    #title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
