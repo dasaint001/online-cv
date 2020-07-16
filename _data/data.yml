@@ -60,10 +60,15 @@ experiences:
       company: HNG Limited
       details: |
        -Designed and developed Back-end for internal tools.
-       -Built responsive user interface from design mocks.   
+       
+       -Built responsive user interface from design mocks.
+       
        -Responsible for implementing Unit and Integration Tests
+       
        -Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
+       
        -Collaborated with full-stack engineers, a product manager, and a UI/UX designer.
+       
        -Product manager for an envato template project
             
     - role: Backend Developer
@@ -78,8 +83,11 @@ experiences:
       company: Google (Remote Internship Scholarship)
       details: |
         Virtual Machines Deployment
+        
         Kubernetes Compute engine optimization
+        
         Nginx production
+        
         Cloud Management
         
 projects:
