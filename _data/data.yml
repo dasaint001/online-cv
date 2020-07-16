@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-         Software engineer with professional experience building and designing software solutions. I’m passionate
+        Software engineer with professional experience building and designing software solutions. I’m passionate
         about building solutions that solve real-life problems. I am skilled in the latest frontend and backend technologies like React.js, laravel,
         Node.js & Python. 
 education:
@@ -56,19 +56,19 @@ experiences:
       time: May 2020 - Present
       company: HNG Limited
       details: |
-            Designed and developed Back-end for internal tools 
-            Built responsive user interface from design mocks
-            Responsible for implementing Unit and Integration Tests
-            Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
-            Collaborated with full-stack engineers, a product manager, and a UI/UX designer
-            Product manager for an envato template project
+        Designed and developed Back-end for internal tools 
+        Built responsive user interface from design mocks
+        Responsible for implementing Unit and Integration Tests
+        Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
+        Collaborated with full-stack engineers, a product manager, and a UI/UX designer
+        Product manager for an envato template project
             
     - role: Backend Developer
       time: February 2020 - May 2020
       company: StartNg Limited(Remote Internship)
       details: |
-            Designed a python Calculator
-            BUilt a python application for bank consumption
+        Designed a python Calculator
+        Built a python application for bank consumption
             
     - role: Cloud Engineer
       time: April 2020 - present
@@ -82,11 +82,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      FUNDMYLAPTOP
+        FUNDMYLAPTOP
         This is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
-       TalentPool
+        TalentPool
         This is a web application where talents could be find by employers and organizations.
-       Icook
+        Icook
         This is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
     assignments:
       - title: Blog features
