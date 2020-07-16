@@ -95,13 +95,13 @@ projects:
     title: Projects
     intro: >
         FUNDMYLAPTOP
-        This is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
+        is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
         
         TalentPool
-        This is a web application where talents could be find by employers and organizations.
+        is a web application where talents could be find by employers and organizations.
         
         Icook
-        This is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
+        is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
         
     assignments:
       - title: Blog features
