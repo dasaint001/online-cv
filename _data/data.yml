@@ -56,17 +56,12 @@ experiences:
       time: May 2020 - Present
       company: HNG Limited
       details: |
-        Designed and developed Back-end for internal tools
-        
-        Built responsive user interface from design mocks   
-        
-        Responsible for implementing Unit and Integration Tests
-        
-        Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
-        
-        Collaborated with full-stack engineers, a product manager, and a UI/UX designer
-        
-        Product manager for an envato template project
+       -Designed and developed Back-end for internal tools
+       -Built responsive user interface from design mocks   
+       -Responsible for implementing Unit and Integration Tests
+       -Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
+       -Collaborated with full-stack engineers, a product manager, and a UI/UX designer
+       -Product manager for an envato template project
             
     - role: Backend Developer
       time: February 2020 - May 2020
