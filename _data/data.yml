@@ -56,7 +56,7 @@ education:
       
 experiences:
     - role: Software Developer(Remote Internship)
-      time: May 2020 - Present
+      time: May 2020 - August 2020
       company: HNG Limited
       details: |
        -Designed and developed Back-end for internal tools.
@@ -71,14 +71,6 @@ experiences:
        
        -Product manager for an envato template project
             
-    - role: Backend Developer
-      time: February 2020 - May 2020
-      company: StartNg Limited(Remote Internship)
-      details: |
-        Designed a python Calculator
-
-        Built a python application for bank consumption
-            
     - role: Cloud Engineer
       time: April 2020 - present
       company: Google (Remote Internship Scholarship)
@@ -90,6 +82,14 @@ experiences:
         Nginx production
         
         Cloud Management
+
+    - role: Backend Developer
+      time: February 2020 - May 2020
+      company: StartNg Limited(Remote Internship)
+      details: |
+        Designed a python Calculator
+
+        Built a python application for bank consumption
         
 projects:
     title: Projects
